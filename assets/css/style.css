@@ -101,48 +101,25 @@ p {
     background-color: #2589bd;
 }
 
-/* titles for benefit section LEAD */
-.benefit-lead {
+/* margin for all divs inside benefits */
+.benefits div {
     margin-bottom: 32px;
     color: #ffffff;
 }
 
-/* titles for benefit section BRAND */
-.benefit-brand {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
-
-/* titles for benefit section COST */
-.benefit-cost {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
-
-/* text margin for H3 */
+/* text margin for H3 inside benefits */
 .benefits h3 {
     margin-bottom: 10px;
     text-align: center;
 }
 
-
-.benefit-lead img {
+/* image margin and width for all img inside benefits  */
+.benefits img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
 
-.benefit-brand img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
-
-.benefit-cost img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
 
 .search-engine-optimization {
     margin-bottom: 20px;

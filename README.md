@@ -10,9 +10,7 @@ Based on code and image provided, a refactoring of both HTML and CSS files neede
 The live website has been setup using Github Pages with th following link: https://felipewithf.github.io/challenge1-refactoring/
  The site should look like this on a desktop with a window view hiegher than 1080w  
 
-    ![screenshot of website](assets/images/screenshoot1.png)
-    ![screenshot of website](https://github.com/felipewithf//challenge1-refactoring/[main]/assets/images/screenshoot1.png?raw=true)
-    ![screenshot of website](assets/images/screenshoot2.png)
+    ![screenshot of website](https://github.com/felipewithf/challenge1-refactoring/assets/images/screenshoot1.png)
 
 ## Credits
 

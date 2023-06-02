@@ -82,7 +82,7 @@ p {
     margin-left: 25px;
 }
 
-/* class ti naje tge content padding */
+/* class that manages the content padding */
 .content {
     width: 75%;
     display: inline-block;

@@ -1,4 +1,4 @@
-# Challenge 1 - Refactoring
+# Refactoring
 
 ## Description
 
@@ -27,9 +27,6 @@ The following changes were done:
  <li>Setup GitPages for the site</li>
  </ul>
 
-## Credits
-
-This was following the challenge-1 refactoring module from the first week at bootcamp
 
 ## License
 
